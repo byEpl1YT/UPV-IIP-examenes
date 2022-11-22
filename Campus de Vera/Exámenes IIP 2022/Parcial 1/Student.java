@@ -1,10 +1,4 @@
 
-/**
- * Write a description of class Student here.
- *
- * @author (your name)
- * @version (a version number or a date)
- */
 public class Student {
     public static final double WEIGHT_1 = 0.40;
     public static final double WEIGHT_2 = 0.60;

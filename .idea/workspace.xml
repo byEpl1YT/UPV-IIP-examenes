@@ -42,6 +42,12 @@
     </force-push-targets>
   </component>
   <component name="RunManager">
+    <configuration name="Problema1" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problema1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="UPV-IIP-exams" />
       <method v="2">
@@ -121,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669157514201</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Exámenes">
+      <created>1669158032615</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1669158032615</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">

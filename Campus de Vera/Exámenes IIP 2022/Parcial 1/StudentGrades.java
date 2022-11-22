@@ -1,11 +1,5 @@
 import java.util.Scanner;
 import java.util.Locale;
-/**
- * Write a description of class StudentGrades here.
- *
- * @author (your name)
- * @version (a version number or a date)
- */
 public class StudentGrades {
     private StudentGrades() { }
     
