@@ -1,4 +1,4 @@
-import java.util.Scanner;
+Eimport java.util.Scanner;
 import java.util.Locale;
 
 public class Ejercicio1 {
