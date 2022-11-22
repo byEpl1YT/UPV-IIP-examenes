@@ -4,7 +4,7 @@ public class StudentGrades {
     private StudentGrades() { }
     
     public static void main(String[] args) {
-        Student student3 = new Student("Ana Isabel", "Pi", "del Valle", "12345678Z");
+        Student student1 = new Student("Ana Isabel", "Pi", "del Valle", "12345678Z");
         Student student2 = new Student("Thomas", "Pyne", "Roure", "87654321X");
         
         System.out.println(student1.toString() + " " + student1.user());
